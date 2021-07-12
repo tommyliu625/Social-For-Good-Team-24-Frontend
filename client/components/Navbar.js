@@ -30,6 +30,9 @@ export default function Navbar() {
             <Link className='nav-link' to='savings-calculator'>
               Savings Calculator
             </Link>
+            <Link className='nav-link' to='login'>
+              Login
+            </Link>
           </div>
         </div>
       </div>
