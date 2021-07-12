@@ -17,6 +17,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.12.1",
+    "@material-ui/icons": "^4.11.2",
     "axios": "^0.21.1",
     "compression": "^1.7.4",
     "connect-session-sequelize": "^7.1.1",
